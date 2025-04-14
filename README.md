@@ -22,6 +22,4 @@ I'm Hannah, and my passions lie in the intersection of **healthcare, data, and A
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="bash" width="45" height="45"  />
                                                        
 </p>
-<h2> 🎵 What I'm listening to </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hryu673&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=hryu673&redirect=true)
